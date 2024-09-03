@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "moonstone_ingot",
+  "ingredient": {
+    "item": "valhalla:moonstone"
+  },
+  "result": {
+    "id": "valhalla:moonstone_ingot"
+  }
+}

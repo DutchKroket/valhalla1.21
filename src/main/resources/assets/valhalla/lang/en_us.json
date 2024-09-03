@@ -4,5 +4,8 @@
 
   "block.valhalla.block_of_moonstone": "Block of Moonstone",
   "block.valhalla.moonstone_ore": "Moonstone Ore",
-  "block.valhalla.skystone": "Skystone"
+  "block.valhalla.skystone": "Skystone",
+
+  "itemgroup.valhalla.valhalla_ingredients_group": "Valhalla Ingredients",
+  "itemgroup.valhalla.valhalla_blocks_group": "Valhalla Blocks"
 }
