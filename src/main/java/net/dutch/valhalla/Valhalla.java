@@ -1,5 +1,6 @@
 package net.dutch.valhalla;
 
+import net.dutch.valhalla.block.ModBlocks;
 import net.dutch.valhalla.items.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +14,7 @@ public class Valhalla implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
